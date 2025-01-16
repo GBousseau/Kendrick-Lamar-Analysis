@@ -1,4 +1,4 @@
-# Artist-Analysis
+# Kendrick Lamar's music analysis
 Tags : ETL, Unsupervised Learning, Clustering, Recommendation system, Interpretation
 
 Time Spent: 1day
