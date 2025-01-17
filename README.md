@@ -14,8 +14,8 @@ Because I used dynamic visuals with plot.express, some visuals are not displayed
 
 
 1. [Songs popularity over time](interactive_visuals/songs_popularity_over_time.html)
-2. [Corelation matrix](interactive_visuals/correlation_matrix.html)
-3. [Kmeans clsutering](interactive_visuals/Kmeans_Clustering.html)
-4. [clusters evolution](interactive_visuals/cluster_evolution.html)
+2. [Correlation matrix](interactive_visuals/correlation_matrix.html)
+4. [Kmeans clsutering](interactive_visuals/Kmeans_Clustering.html)
+5. [clusters evolution](interactive_visuals/cluster_evolution.html)
 
 Hope you will enjoy !
