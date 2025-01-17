@@ -13,9 +13,9 @@ Important precision :
 Because I used dynamic visuals with plot.express, some visuals are not displayed in the GitHub preview. You can find them in the folder "Interactive visuals" or explore them right here !
 
 
-1. [Visualization 1](interactive_visuals/songs_popularity_over_time.html)
-2. [Visualization 2](interactive_visuals/cluster_evolution.html)
-3. [Visualization 3](interactive_visuals/correlation_matrix.html)
-4. [Visualization 4](interactive_visuals/Kmeans_Clustering.html)
+1. [Songs popularity over time](interactive_visuals/songs_popularity_over_time.html)
+2. [Corelation matrix](interactive_visuals/correlation_matrix.html)
+3. [Kmeans clsutering](interactive_visuals/Kmeans_Clustering.html)
+4. [clusters evolution](interactive_visuals/cluster_evolution.html)
 
 Hope you will enjoy !
