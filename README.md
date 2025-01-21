@@ -10,7 +10,9 @@ Content : An exploration of Kendrick Lamar's music including :
 - Construction of a recommendation system based on the clustering
 
 Important precision : 
-Because I used dynamic visuals with plot.express, some visuals are not displayed in the GitHub preview. You can find them in the folder "Interactive visuals" or explore them right here !
+- I did this project before my ML class started so by my own
+- Because I used dynamic visuals with plot.express, some visuals are not displayed in the GitHub preview. You can find them in the folder "Interactive visuals" or explore them right here !
+
 
 
 1. [Songs popularity over time](interactive_visuals/songs_popularity_over_time.html)
